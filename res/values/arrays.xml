@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="products">
+        <item>Lorem ipsum dolor sit amet</item>
+        <item>Consectetuer adipiscing elit</item>
+        <item>Aenean commodo ligula</item>
+        <item>Eget dolor</item>
+        <item>Aenean massa</item>
+        <item>Cum sociis natoque</item>
+        <item>Penatibus et magnis</item>
+        <item>Dis parturient montes</item>
+        <item>Nascetur ridiculus mus</item>
+        <item>Donec quam felis</item>
+        <item>Ultricies nec</item>
+        <item>Pellentesque eu</item>
+        <item>Pretium quis</item>
+        <item>Nulla consequat massa</item>
+        <item>Donec pede justo</item>
+        <item>Fringilla vel</item>
+        <item>Aliquet nec</item>
+        <item>Vulputate eget</item>
+        <item>In enim justo</item>
+        <item>Venenatis vitae</item>        
+    </string-array>
+    <string-array name="icons">
+        <item>@drawable/ic_camera</item>
+        <item>@drawable/ic_chat</item>
+        <item>@drawable/ic_clip</item>
+        <item>@drawable/ic_cloud</item>
+        <item>@drawable/ic_envelope</item>
+        <item>@drawable/ic_heart</item>
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_microfone</item>
+        <item>@drawable/ic_moon</item>
+        <item>@drawable/ic_mute</item>
+        <item>@drawable/ic_newchat</item>
+        <item>@drawable/ic_newmrssage</item>
+        <item>@drawable/ic_next</item>
+        <item>@drawable/ic_planer</item>
+        <item>@drawable/ic_pencil</item>
+        <item>@drawable/ic_pin</item>
+        <item>@drawable/ic_play</item>
+        <item>@drawable/ic_rain</item>
+        <item>@drawable/ic_unlock</item>
+        <item>@drawable/ic_config</item>
+    </string-array>
+	
+    <string-array name="pref_theme_titles">
+        <item>Светлая</item>
+        <item>Темная</item>
+    </string-array>
+    
+	<string-array name="pref_theme_values">
+        <item>light</item>
+        <item>dark</item>
+    </string-array>
+
+</resources>
